@@ -1,0 +1,18 @@
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\2. Villain Names.exe
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\obj\Debug\netcoreapp3.0\2. Villain Names.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\obj\Debug\netcoreapp3.0\2. Villain Names.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\obj\Debug\netcoreapp3.0\2. Villain Names.AssemblyInfo.cs
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\2. Villain Names.deps.json
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\2. Villain Names.runtimeconfig.json
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\2. Villain Names.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\2. Villain Names.dll
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\2. Villain Names.pdb
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\obj\Debug\netcoreapp3.0\2. Villain Names.csproj.CopyComplete
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\obj\Debug\netcoreapp3.0\2. Villain Names.dll
+C:\Users\theon\source\repos\Introduction to DB Apps-Exercises\2. Villain Names\obj\Debug\netcoreapp3.0\2. Villain Names.pdb
