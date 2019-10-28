@@ -1,0 +1,8 @@
+C:\Users\theon\OneDrive\Bureau\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\theon\OneDrive\Bureau\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\theon\OneDrive\Bureau\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\theon\OneDrive\Bureau\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\theon\OneDrive\Bureau\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\theon\OneDrive\Bureau\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\theon\OneDrive\Bureau\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\theon\OneDrive\Bureau\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
