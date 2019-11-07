@@ -1,0 +1,10 @@
+C:\Users\theon\source\repos\Code-First\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.deps.json
+C:\Users\theon\source\repos\Code-First\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.json
+C:\Users\theon\source\repos\Code-First\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Code-First\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+C:\Users\theon\source\repos\Code-First\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+C:\Users\theon\source\repos\Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfo.cs
+C:\Users\theon\source\repos\Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+C:\Users\theon\source\repos\Code-First\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
